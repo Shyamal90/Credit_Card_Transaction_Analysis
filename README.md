@@ -1,2 +1,28 @@
-# Credit_Card_Transaction_Analysis
-An end-to-end data analysis project using Power BI to uncover insights from credit card transaction data. The dashboard highlights key revenue drivers, customer segments, and transaction patterns to support data-driven decision-making.
+## 🧱 1. Project Title
+Credit Card Transaction Analysis Dashboard
+
+## 🎯 2. Problem Statement
+The objective of this project is to analyse credit card transaction data to understand customer spending behaviour and identify key revenue drivers.
+
+## ❓ 3. Key Questions
+- Which transaction type generates the highest revenue?
+- Which expenditure category contributes the most?
+- Which customer segment (education/job) uses credit cards the most?
+- How does revenue vary over time?
+- Who are the high-value customers?
+
+## 📊 4. Dashboard / Metrics
+- Total Revenue
+- Revenue by Expenditure Type
+- Revenue by Transaction Type (Swipe, Online, Chip)
+- Revenue by Education Level
+- Revenue by Job Type
+
+## 🔍 5. Key Insights
+
+
+## 🤔 6. Further Analysis
+
+## 💡 7. Recommendations
+
+## 📷 8. Dashboard Screenshot
