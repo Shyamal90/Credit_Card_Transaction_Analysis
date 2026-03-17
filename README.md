@@ -19,10 +19,19 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 - Revenue by Job Type
 
 ## 🔍 5. Key Insights
-
+👉 Swipe transactions contribute the highest revenue, indicating that customers prefer physical card usage over online methods.
+👉 Graduates are the largest contributors to credit card usage, suggesting higher adoption among educated users.
+👉 Business professionals generate the highest revenue, likely due to higher purchasing power.
 
 ## 🤔 6. Further Analysis
+- Is high revenue due to more users or higher spending?
+- Are swipe transactions consistently high over time?
+- Do business users spend more per transaction?
 
 ## 💡 7. Recommendations
+- Promote online transactions for better digital adoption
+- Target graduate customers with offers
+- Provide premium benefits for business users
+
 
 ## 📷 8. Dashboard Screenshot
