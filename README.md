@@ -1,8 +1,8 @@
 ## 🧱 1. Project Title
 Credit Card Transaction Analysis Dashboard
 
-## 🎯 2. Problem Statement
-The objective of this project is to analyse credit card transaction data to understand customer spending behaviour and identify key revenue drivers.
+## 🎯 2. Problem Objective
+To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyse credit card operations effectively.
 
 ## ❓ 3. Key Questions
 - Which transaction type generates the highest revenue?
