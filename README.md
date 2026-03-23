@@ -35,3 +35,6 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 
 
 ## 📷 8. Dashboard Screenshot
+[screenShotCreaditCardDashboard.pdf](https://github.com/user-attachments/files/26180537/screenShotCreaditCardDashboard.pdf)
+
+
